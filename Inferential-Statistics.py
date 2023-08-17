@@ -10,7 +10,7 @@ st.markdown("<h5 style='text-align: justify'>Confidence interval estimation is a
  of used cars located in united arab emirates. I have collected data from various web sites of established automobile dealers in UAE market \
  by using python web scrapping method (used Selenium library).</h5>", unsafe_allow_html=True)
 
-st.markdown("<h5 style='text-align: justify'>Since we have available with sample datas, we could calculate only \
+st.markdown("<h5 style='text-align: justify'>Since we have available with sample datas, we would able to calculate only \
 sample statistics such as sample standard deviation, sample mean etc from the collected samples. Therefore we have to use t-distribution to calculate the \
 corresponding population parameters. We can come up with some confidence level that the average price and mileage of used cars in UAE market would be within \
 a particular range which would be determined by t-distribution.</h5>", unsafe_allow_html=True)
