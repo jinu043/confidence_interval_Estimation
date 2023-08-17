@@ -43,6 +43,6 @@ with col2:
     <mark style = 'background-color:#C5E8EC;color:red;font-weight:bold'>{um} km</mark>. It means, if we take a sample of \
     <mark style = 'background-color:#C5E8EC;color:black;font-weight:bold'>{model.lower()}</mark> models, we can say that with \
     <mark style = 'background-color:#C5E8EC;color:black;font-weight:bold'>{confidence*100}%</mark> confidence/probablity, the average vehicle mileage \
-    in UAE market would range between above values. We can get the different mileage range, when we change the confidecnce level. But as we described in inferential \
+    in UAE market would range between above values. We can get different mileage range, when we change the confidecnce level. But as we described in inferential \
     statistics, by increasing the confidence level, width of confidence interval will also increase. Therefore we always prefer confidence values as 0.95</h6>",
                 unsafe_allow_html=True)
