@@ -6,7 +6,7 @@ st.set_page_config(page_title="Confidence Interval Estimation",
 
 st.markdown("<h1 style='text-align: center'>Confidence Interval Estimation</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: justify'>Confidence interval estimation is a technique from inferential statistics method for calculating the \
- population parameters range such as average mean, average variance, proportion etc. My intention is to calculate the average price and average mileage \
+ population parameters values such as range of average mean, range of average variance and range of proportion etc. My intention is to calculate the average price and average mileage \
  of used cars located in united arab emirates. I have collected data from various web sites of established automobile dealers in UAE market \
  by using python web scrapping method (used Selenium library).</h5>", unsafe_allow_html=True)
 
