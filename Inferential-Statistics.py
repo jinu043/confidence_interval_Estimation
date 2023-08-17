@@ -22,6 +22,6 @@ st.latex(r'''\overline{x} - t_{\alpha/2, {n-1}}\left(s/\sqrt{n}\right)\quad
 
 st.markdown("<h5 style='text-align: justify'>We normally use alpha values between 0.9 and 0.99. When you increase the value of alpha, width of confidence interval \
 would become large which may not give a good business insights. When you decrease the value of alpha, then the confidence interval width would become too low which may \
-lead to misinterpets the actual population value. Therefore we normally use value of alpha as 0.95 for calculating the confidence interval of population parameters such as averages \
+lead to misinterpets the actual population value. Therefore we normally use alpha as 0.95 for calculating the confidence interval of population parameters such as averages \
 or porportions.</h5>", unsafe_allow_html=True)
 st.balloons()
