@@ -9,15 +9,6 @@ import random
 import plotly.express as px
 import streamlit as st
 
-
-dir_ = "D:\\pythonProject\\webscraping"
-afm = pd.read_csv(dir_+"\\afm\\mod_afm.csv")
-nxt = pd.read_csv(dir_+"\\AWRNXT\\mod_awrnxt.csv")
-carnab = pd.read_csv(dir_+"\\carnab\\mod_carnab.csv")
-cars24 = pd.read_csv(dir_+"\\cars24\\mod_cars24.csv")
-kavak = pd.read_csv(dir_+"\\kavak\\mod_kavak.csv")
-data = pd.concat([afm, nxt, carnab, cars24, kavak])
-
 data1 = pd.read_csv("data.csv")
 
 vehicle_brands = data1["vehicle_brand"].unique().tolist()
